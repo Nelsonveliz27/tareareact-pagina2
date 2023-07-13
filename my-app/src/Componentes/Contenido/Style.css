@@ -1,4 +1,4 @@
-/*productos*/
+/*product*/
 
 .contenidoProductos{
     display:flex;
@@ -35,7 +35,8 @@
     width: 150px;
     height: 160px;
     object-fit: scale-down;
-    margin-left: 20%;    
+    margin-left: 20%; 
+
 }
 */
 
